@@ -2,15 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c38573a-b000-45a1-947d-c2b63df42726" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/soft1851/group1/functional/cyh/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/soft1851/group1/functional/cyh/MyFunctionInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/soft1851/group1/functional/cyh/MyFunctionInterfaceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functional-study/META-INF/functional-study.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functional-study/com/soft1851/group1/APP.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functional-study/com/soft1851/group1/functional/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functional-study/com/soft1851/group1/functional/cyh/Demo$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functional-study/com/soft1851/group1/functional/cyh/Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functional-study/com/soft1851/group1/functional/cyh/MyFunctionInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functional-study/com/soft1851/group1/functional/cyh/MyFunctionInterfaceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functional-study/com/soft1851/group1/functional/dyf/RuInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functional-study/com/soft1851/group1/functional/dyf/RuInterfaceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functional-study/com/soft1851/group1/functional/dyf/SumService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functional-study/com/soft1851/group1/functional/dyf/SumServiceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functional-study/com/soft1851/group1/functional/dyf/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functional-study/com/soft1851/group1/functional/wzw/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functional-study/com/soft1851/group1/functional/yf/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/soft1851/group1/functional/dyf/RuInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/soft1851/group1/functional/dyf/RuInterfaceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/soft1851/group1/functional/dyf/SumService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/soft1851/group1/functional/dyf/SumServiceTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/soft1851/group1/functional/dyf/test.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -32,6 +53,9 @@
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
   <component name="ProjectId" id="1YAOWTgUjGZU4lQE0hAf4twKNgh" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -47,9 +71,15 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\download\create\group1\src\com\soft1851\group1\functional\dyf" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.RuInterfaceTest">
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.soft1851.group1.functional.cyh.Demo" />
       <module name="functional-study" />
@@ -63,8 +93,50 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RuInterfaceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.soft1851.group1.functional.dyf.RuInterfaceTest" />
+      <module name="functional-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.soft1851.group1.functional.dyf.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumServiceTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.soft1851.group1.functional.dyf.SumServiceTest" />
+      <module name="functional-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.soft1851.group1.functional.dyf.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumServiceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.soft1851.group1.SumServiceTest" />
+      <module name="functional-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.soft1851.group1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RuInterfaceTest" />
+        <item itemvalue="Application.SumServiceTest (1)" />
+        <item itemvalue="Application.SumServiceTest" />
         <item itemvalue="Application.Demo" />
       </list>
     </recent_temporary>
@@ -87,6 +159,7 @@
       <workItem from="1582383477932" duration="1743000" />
       <workItem from="1582385383943" duration="273000" />
       <workItem from="1582385861358" duration="880000" />
+      <workItem from="1582387799978" duration="2404000" />
     </task>
     <task id="LOCAL-00001" summary="项目目录搭建（有不当的可以自行改正，但要及时提醒组员更新！！）">
       <created>1582382816227</created>
@@ -142,33 +215,50 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="361" y="91" key="#Notifications/0.0.1536.864@0.0.1536.864" timestamp="1582385636042" />
-    <state x="958" y="145" key="#com.intellij.ide.util.MemberChooser" timestamp="1582386156424">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state x="848" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1582388445177">
+      <screen x="0" y="0" width="1360" height="728" />
     </state>
+    <state x="848" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1360.728@0.0.1360.728" timestamp="1582388445177" />
     <state x="958" y="145" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1582386156424" />
+    <state x="464" y="325" width="457" height="226" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1582387864745">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="464" y="325" width="457" height="226" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1360.728@0.0.1360.728" timestamp="1582387864745" />
+    <state x="848" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1582388034277">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="848" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1360.728@0.0.1360.728" timestamp="1582388034277" />
     <state x="372" y="24" key="CommitChangelistDialog2" timestamp="1582386791224">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="372" y="24" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1582386791224" />
-    <state width="723" height="207" key="GridCell.Tab.0.bottom" timestamp="1582386756400">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state width="1317" height="133" key="GridCell.Tab.0.bottom" timestamp="1582389864944">
+      <screen x="0" y="0" width="1360" height="728" />
     </state>
+    <state width="1317" height="133" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1582389864944" />
     <state width="723" height="207" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1582386756400" />
-    <state width="723" height="207" key="GridCell.Tab.0.center" timestamp="1582386756400">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state width="1317" height="133" key="GridCell.Tab.0.center" timestamp="1582389864944">
+      <screen x="0" y="0" width="1360" height="728" />
     </state>
+    <state width="1317" height="133" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1582389864944" />
     <state width="723" height="207" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1582386756400" />
-    <state width="723" height="207" key="GridCell.Tab.0.left" timestamp="1582386756400">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state width="1317" height="133" key="GridCell.Tab.0.left" timestamp="1582389864944">
+      <screen x="0" y="0" width="1360" height="728" />
     </state>
+    <state width="1317" height="133" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1582389864944" />
     <state width="723" height="207" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1582386756400" />
-    <state width="723" height="207" key="GridCell.Tab.0.right" timestamp="1582386756400">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state width="1317" height="133" key="GridCell.Tab.0.right" timestamp="1582389864944">
+      <screen x="0" y="0" width="1360" height="728" />
     </state>
+    <state width="1317" height="133" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1582389864944" />
     <state width="723" height="207" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1582386756400" />
     <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1582386798820">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1582386798820" />
+    <state x="343" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1582388731757">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="343" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1360.728@0.0.1360.728" timestamp="1582388731757" />
   </component>
 </project>
