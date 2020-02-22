@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5c38573a-b000-45a1-947d-c2b63df42726" name="Default Changelist" comment="" />
+    <list default="true" id="5c38573a-b000-45a1-947d-c2b63df42726" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/soft1851/group1/functional/cyh/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/soft1851/group1/functional/cyh/MyFunctionInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/soft1851/group1/functional/cyh/MyFunctionInterfaceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +15,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -43,6 +49,26 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
+  <component name="RunManager">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.soft1851.group1.functional.cyh.Demo" />
+      <module name="functional-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.soft1851.group1.functional.cyh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Demo" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SshConsoleOptionsProvider">
     <option name="myEncoding" value="UTF-8" />
   </component>
@@ -60,6 +86,7 @@
       <workItem from="1582382529222" duration="442000" />
       <workItem from="1582383477932" duration="1743000" />
       <workItem from="1582385383943" duration="273000" />
+      <workItem from="1582385861358" duration="880000" />
     </task>
     <task id="LOCAL-00001" summary="项目目录搭建（有不当的可以自行改正，但要及时提醒组员更新！！）">
       <created>1582382816227</created>
@@ -89,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582385599708</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="修改">
+      <created>1582385881919</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1582385881919</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,20 +134,41 @@
     <MESSAGE value="项目目录搭建（有不当的可以自行改正，但要及时提醒组员更新！！）" />
     <MESSAGE value="各自对应包名" />
     <MESSAGE value="README.md文件上传" />
-    <option name="LAST_COMMIT_MESSAGE" value="README.md文件上传" />
+    <MESSAGE value="修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="91" key="#Notifications" timestamp="1582385636042">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="361" y="91" key="#Notifications/0.0.1536.864@0.0.1536.864" timestamp="1582385636042" />
-    <state x="372" y="24" key="CommitChangelistDialog2" timestamp="1582385598751">
+    <state x="958" y="145" key="#com.intellij.ide.util.MemberChooser" timestamp="1582386156424">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="372" y="24" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1582385598751" />
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1582385620368">
+    <state x="958" y="145" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1582386156424" />
+    <state x="372" y="24" key="CommitChangelistDialog2" timestamp="1582385880977">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1582385620368" />
+    <state x="372" y="24" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1582385880977" />
+    <state width="723" height="207" key="GridCell.Tab.0.bottom" timestamp="1582386756400">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="723" height="207" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1582386756400" />
+    <state width="723" height="207" key="GridCell.Tab.0.center" timestamp="1582386756400">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="723" height="207" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1582386756400" />
+    <state width="723" height="207" key="GridCell.Tab.0.left" timestamp="1582386756400">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="723" height="207" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1582386756400" />
+    <state width="723" height="207" key="GridCell.Tab.0.right" timestamp="1582386756400">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="723" height="207" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1582386756400" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1582385886260">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1582385886260" />
   </component>
 </project>
