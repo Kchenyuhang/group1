@@ -7,6 +7,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -20,6 +27,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1YAOWTgUjGZU4lQE0hAf4twKNgh" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -46,10 +56,33 @@
       <option name="presentableId" value="Default" />
       <updated>1582381963914</updated>
       <workItem from="1582381965338" duration="12000" />
+      <workItem from="1582382529222" duration="353000" />
     </task>
+    <task id="LOCAL-00001" summary="项目目录搭建（有不当的可以自行改正，但要及时提醒组员更新！！）">
+      <created>1582382816227</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582382816227</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="项目目录搭建（有不当的可以自行改正，但要及时提醒组员更新！！）" />
+    <option name="LAST_COMMIT_MESSAGE" value="项目目录搭建（有不当的可以自行改正，但要及时提醒组员更新！！）" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="372" y="24" key="CommitChangelistDialog2" timestamp="1582382951245">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="372" y="24" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1582382951245" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1582382820923">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1582382820923" />
   </component>
 </project>
