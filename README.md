@@ -23,6 +23,8 @@
 
 2、自定义接口练习
 
+3、排序
+
 **位哲武：**
 
 1、从Stream/Function/Optional/Consumer中选做
