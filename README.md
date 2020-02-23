@@ -40,7 +40,7 @@
 
 1、思维导图
 
-2、自定义接口练习
+2、自定义接口练习：CarService接口、CarServiceImpl实现类、CarServiceTest测试类
 
 
 
