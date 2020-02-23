@@ -2,13 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c38573a-b000-45a1-947d-c2b63df42726" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/soft1851/group1/functional/cyh/GreetService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/soft1851/group1/functional/cyh/GreetServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/soft1851/group1/functional/cyh/fifth/MaxLengthSteam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/soft1851/group1/functional/cyh/fifth/MaxLengthSteamTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/soft1851/group1/functional/cyh/fifth/StudentInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/soft1851/group1/functional/cyh/fifth/StudentRank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/soft1851/group1/functional/cyh/fifth/StudentRankTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/soft1851/group1/functional/cyh/Demo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/soft1851/group1/functional/cyh/MyFunctionInterface.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/soft1851/group1/functional/cyh/MyFunctionInterfaceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/functional-study/com/soft1851/group1/functional/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/functional-study/com/soft1851/group1/functional/cyh/Demo$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/functional-study/com/soft1851/group1/functional/cyh/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/functional-study/com/soft1851/group1/functional/cyh/MyFunctionInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/functional-study/com/soft1851/group1/functional/cyh/MyFunctionInterfaceImpl.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,10 +54,11 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
-  <component name="RunManager" selected="Application.GreetServiceTest">
+  <component name="RunManager" selected="Application.StudentRankTest">
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.soft1851.group1.functional.cyh.Demo" />
       <module name="functional-study" />
@@ -80,8 +85,50 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MaxLengthSteamTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.soft1851.group1.functional.cyh.fifth.MaxLengthSteamTest" />
+      <module name="functional-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.soft1851.group1.functional.cyh.fifth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentRankTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.soft1851.group1.functional.cyh.fifth.StudentRankTest" />
+      <module name="functional-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.soft1851.group1.functional.cyh.fifth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.soft1851.group1.functional.wzw.fifth.Test" />
+      <module name="functional-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.soft1851.group1.functional.wzw.fifth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StudentRankTest" />
+        <item itemvalue="Application.MaxLengthSteamTest" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.GreetServiceTest" />
         <item itemvalue="Application.Demo" />
       </list>
@@ -105,7 +152,7 @@
       <workItem from="1582383477932" duration="1743000" />
       <workItem from="1582385383943" duration="273000" />
       <workItem from="1582385861358" duration="880000" />
-      <workItem from="1582426612435" duration="1328000" />
+      <workItem from="1582426612435" duration="5147000" />
     </task>
     <task id="LOCAL-00001" summary="项目目录搭建（有不当的可以自行改正，但要及时提醒组员更新！！）">
       <created>1582382816227</created>
@@ -142,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582385881919</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="function练习">
+      <created>1582428099671</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1582428099671</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -154,17 +208,18 @@
     <MESSAGE value="各自对应包名" />
     <MESSAGE value="README.md文件上传" />
     <MESSAGE value="修改" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改" />
+    <MESSAGE value="function练习" />
+    <option name="LAST_COMMIT_MESSAGE" value="function练习" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="91" key="#Notifications" timestamp="1582385636042">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="361" y="91" key="#Notifications/0.0.1536.864@0.0.1536.864" timestamp="1582385636042" />
-    <state x="958" y="145" key="#com.intellij.ide.util.MemberChooser" timestamp="1582386156424">
+    <state x="958" y="145" key="#com.intellij.ide.util.MemberChooser" timestamp="1582431971259">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="958" y="145" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1582386156424" />
+    <state x="958" y="145" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1582431971259" />
     <state x="614" y="321" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1582426646126">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -173,29 +228,33 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="499" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864@0.0.1536.864" timestamp="1582426767461" />
-    <state x="372" y="24" key="CommitChangelistDialog2" timestamp="1582386791224">
+    <state x="372" y="24" key="CommitChangelistDialog2" timestamp="1582428098448">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="372" y="24" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1582386791224" />
-    <state width="1493" height="214" key="GridCell.Tab.0.bottom" timestamp="1582428062829">
+    <state x="372" y="24" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1582428098448" />
+    <state width="724" height="208" key="GridCell.Tab.0.bottom" timestamp="1582433377081">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="214" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1582428062829" />
-    <state width="1493" height="214" key="GridCell.Tab.0.center" timestamp="1582428062828">
+    <state width="724" height="208" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1582433377081" />
+    <state width="724" height="208" key="GridCell.Tab.0.center" timestamp="1582433377081">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="214" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1582428062828" />
-    <state width="1493" height="214" key="GridCell.Tab.0.left" timestamp="1582428062828">
+    <state width="724" height="208" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1582433377081" />
+    <state width="724" height="208" key="GridCell.Tab.0.left" timestamp="1582433377080">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="214" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1582428062828" />
-    <state width="1493" height="214" key="GridCell.Tab.0.right" timestamp="1582428062829">
+    <state width="724" height="208" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1582433377080" />
+    <state width="724" height="208" key="GridCell.Tab.0.right" timestamp="1582433377081">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="214" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1582428062829" />
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1582386798820">
+    <state width="724" height="208" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1582433377081" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1582428106602">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1582386798820" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1582428106602" />
+    <state x="497" y="135" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1582431524802">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="497" y="135" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.864@0.0.1536.864" timestamp="1582431524802" />
   </component>
 </project>
