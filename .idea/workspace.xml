@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c38573a-b000-45a1-947d-c2b63df42726" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/soft1851/group1/functional/cyh/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/soft1851/group1/functional/cyh/MyFunctionInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/soft1851/group1/functional/cyh/MyFunctionInterfaceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/soft1851/group1/functional/cyh/GreetService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/soft1851/group1/functional/cyh/GreetServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/soft1851/group1/functional/cyh/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/soft1851/group1/functional/cyh/MyFunctionInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/soft1851/group1/functional/cyh/MyFunctionInterfaceImpl.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,9 +50,10 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.GreetServiceTest">
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.soft1851.group1.functional.cyh.Demo" />
       <module name="functional-study" />
@@ -63,8 +67,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="GreetServiceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.soft1851.group1.functional.cyh.GreetServiceTest" />
+      <module name="functional-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.soft1851.group1.functional.cyh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GreetServiceTest" />
         <item itemvalue="Application.Demo" />
       </list>
     </recent_temporary>
@@ -87,6 +105,7 @@
       <workItem from="1582383477932" duration="1743000" />
       <workItem from="1582385383943" duration="273000" />
       <workItem from="1582385861358" duration="880000" />
+      <workItem from="1582426612435" duration="1328000" />
     </task>
     <task id="LOCAL-00001" summary="项目目录搭建（有不当的可以自行改正，但要及时提醒组员更新！！）">
       <created>1582382816227</created>
@@ -146,26 +165,34 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="958" y="145" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1582386156424" />
+    <state x="614" y="321" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1582426646126">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="614" y="321" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.864@0.0.1536.864" timestamp="1582426646126" />
+    <state x="499" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582426767461">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="499" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864@0.0.1536.864" timestamp="1582426767461" />
     <state x="372" y="24" key="CommitChangelistDialog2" timestamp="1582386791224">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="372" y="24" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1582386791224" />
-    <state width="723" height="207" key="GridCell.Tab.0.bottom" timestamp="1582386756400">
+    <state width="1493" height="214" key="GridCell.Tab.0.bottom" timestamp="1582428062829">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="723" height="207" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1582386756400" />
-    <state width="723" height="207" key="GridCell.Tab.0.center" timestamp="1582386756400">
+    <state width="1493" height="214" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1582428062829" />
+    <state width="1493" height="214" key="GridCell.Tab.0.center" timestamp="1582428062828">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="723" height="207" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1582386756400" />
-    <state width="723" height="207" key="GridCell.Tab.0.left" timestamp="1582386756400">
+    <state width="1493" height="214" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1582428062828" />
+    <state width="1493" height="214" key="GridCell.Tab.0.left" timestamp="1582428062828">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="723" height="207" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1582386756400" />
-    <state width="723" height="207" key="GridCell.Tab.0.right" timestamp="1582386756400">
+    <state width="1493" height="214" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1582428062828" />
+    <state width="1493" height="214" key="GridCell.Tab.0.right" timestamp="1582428062829">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="723" height="207" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1582386756400" />
+    <state width="1493" height="214" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1582428062829" />
     <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1582386798820">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
